@@ -2,6 +2,7 @@
 Contains helper functions and notes for dealing with git.
 
 <H4>Commands:</H4>
+
 - `git remote -v`
 - `git checkout -b "${{BRANCH_NAME}}"`
 - `git checkout -- ${{FILE_NAME}}`
