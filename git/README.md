@@ -19,3 +19,9 @@ Contains helper functions and notes for dealing with git.
 - `git commit --amend`
 
 <H4>Aliases:</H4>
+
+
+<H4>Issues due to unclean local Branch history With Conflicting Changes</H4>
+
+- During Rebase, its getting difficult because multiple commits have overwritten changes and its difficult to remember which one you want. It would be great if the commits of the personal branch were squashed together so that re-basing is easier. 
+- Need More details on this.
