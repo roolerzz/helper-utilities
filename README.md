@@ -45,7 +45,8 @@ This repository is a record of personal notes and scripts that helps me being pr
   - Colorful logs for k8s.
 - [k9s](https://github.com/derailed/k9s)
   - A light weight frontend for K8s commands.
-
+- vscode other projects.
+  - Using IntelliJ Idea [keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) in Vscode. 
 UUID-To-Binary
 ```
 uuid-to-binary() {
