@@ -14,7 +14,11 @@ This repository is a record of personal notes and scripts that helps me being pr
 - [Iterm2](https://www.iterm2.com/) as the terminal.
 - ZSH as the Shell.`brew install zsh`.
   - [Oh-my-zsh](https://ohmyz.sh/) for managing zsh configs. Github [here](https://github.com/ohmyzsh/ohmyzsh).
-  - powerlevel10k theme.
+  - powerlevel10k theme.https://gist.github.com/kevin-smets/8568070
+  - https://github.com/powerline/fonts
+  - https://github.com/mbadolato/iTerm2-Color-Schemes
+  - https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb
+  - https://gist.github.com/kevin-smets/8568070
     ```
     export ZSH="/Users/hsethi/.oh-my-zsh"
     POWERLEVEL9K_MODE='nerdfont-complete'
@@ -22,6 +26,9 @@ This repository is a record of personal notes and scripts that helps me being pr
     source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
     source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
     ```
+  - https://gist.github.com/dogrocker/1efb8fd9427779c827058f873b94df95
+  - https://medium.com/@0n3z3r0n3/oh-my-zsh-configuration-guide-for-macos-terminal-3ee6003b09d5
+  - https://github.com/zsh-users/zsh-completions
   - Could try Fish shell too. Try using Tmux?
 - Aliases for frequently used github commands.
 - [f.lux](https://justgetflux.com/) for brightness control and yellow light @ night.
