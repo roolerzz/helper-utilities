@@ -6,10 +6,13 @@ This repository is a record of personal notes and scripts that helps me being pr
 ## Tools/Plugins/Extensions that I work with:
 - [Homebrew](https://brew.sh/) as package manager.
 - [Xcode](https://developer.apple.com/xcode/) `xcode-select --install`
+- Enable Maximize functionality for windows on Mac.
+  - https://blog.macsales.com/44494-tech-101-mac-window-management-keyboard-shortcuts/
 - [Sublime Text 3](https://www.sublimetext.com/3).
   - Plugins
     - [Local History](https://packagecontrol.io/packages/Local%20History).(Have lost my un-saved work a couple of times. Its really annoying.)
     - [Pretty Json](https://packagecontrol.io/packages/Pretty%20JSON).
+    - Various Themes(like Solarized Dark etc.)
     - How to use Macros in Sublime text?
 - [Iterm2](https://www.iterm2.com/) as the terminal.
 - ZSH as the Shell.`brew install zsh`.
