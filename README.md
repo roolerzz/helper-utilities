@@ -47,14 +47,16 @@ This repository is a record of personal notes and scripts that helps me being pr
 - IDE
   - JetBrain's Goland(Go)
   - IntelliJ(Java)
-  - Fix Option-f|b|d keywords to work transparently in Jetbrains terminal as iterm.
-  ```bash
-  if [[ "$TERMINAL_EMULATOR" == "JetBrains-JediTerm" ]]; then
-    bindkey "∫" backward-word # Option-b
-    bindkey "ƒ" forward-word # Option-f
-    bindkey "∂" delete-word # Option-d
-  fi
-  ```
+    - Plugins
+      - Presentation Assistant
+    - Fix Option-f|b|d keywords to work transparently in Jetbrains terminal as iterm.
+    ```bash
+    if [[ "$TERMINAL_EMULATOR" == "JetBrains-JediTerm" ]]; then
+      bindkey "∫" backward-word # Option-b
+      bindkey "ƒ" forward-word # Option-f
+      bindkey "∂" delete-word # Option-d
+    fi
+    ```
 - API Testing
   - REST
     - Postman
