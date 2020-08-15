@@ -5,6 +5,14 @@ This repository is a record of personal notes and scripts that helps me being pr
 
 ## Tools/Plugins/Extensions that I work with:
 - [Homebrew](https://brew.sh/) as package manager.
+  - Brew Packages
+    - jq(CLI Json Parser)
+    - watch(refreshes/re-executes the same commands. Say if you looking for creation of a new file in directory, change of logs etc.)
+    - htop(process manager similar to top)
+    - tree(shows the nested directory structures in CLI.)
+    - z(helps navigate to most frequently used directories. So no more remembering and re-typing `cd /abc/def/geh/dafuq`)
+    - fortune | cowsay | lolcat for some quotes of the day and some [fun](https://github.com/busyloop/lolcat).
+    - lf, git, neofetch, wine, winetricks, gcc, cmatrix, thefuck, fzf, coreutils, diff-so-fancy, ncdu
 - [Xcode](https://developer.apple.com/xcode/) `xcode-select --install`
 - Enable Maximize functionality for windows on Mac.
   - https://blog.macsales.com/44494-tech-101-mac-window-management-keyboard-shortcuts/
