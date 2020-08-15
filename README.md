@@ -45,6 +45,7 @@ This repository is a record of personal notes and scripts that helps me being pr
   - IntelliJ(Java)
     - Plugins
       - Presentation Assistant
+      - saveActions(for auto-format and organize imports on save.)
     - Fix Option-f|b|d keywords to work transparently in Jetbrains terminal as iterm.
     ```bash
     if [[ "$TERMINAL_EMULATOR" == "JetBrains-JediTerm" ]]; then
