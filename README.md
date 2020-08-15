@@ -18,16 +18,12 @@ This repository is a record of personal notes and scripts that helps me being pr
 - ZSH as the Shell.`brew install zsh`.
   - [Oh-my-zsh](https://ohmyz.sh/) for managing zsh configs. Github [here](https://github.com/ohmyzsh/ohmyzsh).
   - powerlevel10k theme.https://gist.github.com/kevin-smets/8568070
+  - Customize Powerlevel10k https://github.com/romkatv/powerlevel10k#extremely-customizable
   - Enable word jumps and word deletion, aka natural text selection
     - iterm-> preferences-> profiles -> keys -> Left Option key to Esc+( Option + F= next word, Option+B = Last word, Option + backspace = delete last word.)
-  - https://github.com/powerline/fonts
-  - https://github.com/mbadolato/iTerm2-Color-Schemes
-  - https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb
-  - https://gist.github.com/kevin-smets/8568070
     ```
     export ZSH="/Users/hsethi/.oh-my-zsh"
-    POWERLEVEL9K_MODE='nerdfont-complete'
-    ZSH_THEME="powerlevel9k/powerlevel9k"
+    ZSH_THEME="powerlevel10k/powerlevel10k"
     source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
     source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
     ```
