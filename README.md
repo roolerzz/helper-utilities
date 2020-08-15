@@ -14,6 +14,7 @@ This repository is a record of personal notes and scripts that helps me being pr
     - fortune | cowsay | lolcat for some quotes of the day and some [fun](https://github.com/busyloop/lolcat).
     - lf, git, neofetch, wine, winetricks, gcc, cmatrix, thefuck, fzf, coreutils, ncdu
     - Beautify git diffs with [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+      - Old value for core.pager (less -FMRiX). In case you need to revert.
 - [Xcode](https://developer.apple.com/xcode/) `xcode-select --install`
 - Enable Maximize functionality for windows on Mac.
   - https://blog.macsales.com/44494-tech-101-mac-window-management-keyboard-shortcuts/
@@ -56,6 +57,7 @@ This repository is a record of personal notes and scripts that helps me being pr
       - Presentation Assistant
       - saveActions(for auto-format and organize imports on save.)
       - [String Manipulations](https://plugins.jetbrains.com/plugin/2162-string-manipulation/) - For Efficient converting of strings b/w various forms/cases.
+      - [Grep Console](https://plugins.jetbrains.com/plugin/7125-grep-console/) - Might help finding the needle in the haystack.
     - Fix Option-f|b|d keywords to work transparently in Jetbrains terminal as iterm.
     ```bash
     if [[ "$TERMINAL_EMULATOR" == "JetBrains-JediTerm" ]]; then
