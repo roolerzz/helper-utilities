@@ -66,6 +66,7 @@ This repository is a record of personal notes and scripts that helps me being pr
       bindkey "∂" delete-word # Option-d
     fi
     ```
+    - Enable Auto-Import Intellij to fix un-ambiguious imports and organize on the fly. 
 - API Testing
   - REST
     - Postman
